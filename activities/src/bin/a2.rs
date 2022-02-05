@@ -5,7 +5,17 @@
 //
 // Notes:
 // * Use a function to add two numbers together
+fn sum(a: i32, b: i32) -> i32 {
+  a + b
+}
+
 // * Use a function to display the result
 // * Use the "{:?}" token in the println macro to display the result
+fn print_result(result: i32) {
+  println!("{:?}", result)
+}
 
-fn main() {}
+fn main() {
+  let result = sum(2, 3);
+  print_result(result)
+}
