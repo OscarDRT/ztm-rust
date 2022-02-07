@@ -6,8 +6,16 @@
 // * When the variable is set to false, display "goodbye"
 //
 // Notes:
-// * Use a variable set to either true or false
-// * Use an if..else block to determine which message to display
+
 // * Use the println macro to display messages to the terminal
 
-fn main() {}
+fn main() {
+  // * Use a variable set to either true or false
+  let is_boolean = false;
+  // * Use an if..else block to determine which message to display
+  if is_boolean {
+    println!("Hello ");
+  } else {
+      println!("goodbye");
+  }
+}
