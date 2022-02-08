@@ -14,11 +14,10 @@ fn main() {
   // * Use a while statement
   // * Print the variable within the while loop
   // * Do not use break to exit the loop
-  while n > 0 {
+  while n >= 1 {
     println!("{:?}", n);
     if n == 1 {
       println!("DONE");
-      break;
     }
     n = n - 1;
   }
