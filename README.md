@@ -22,3 +22,9 @@ After installing the tool, you can configure the database for the project by run
 ```
 sqlx database setup
 ```
+
+
+- Introduction
+- Rust Fundamentals
+- Making Decisions with Rust
+- Repetition
