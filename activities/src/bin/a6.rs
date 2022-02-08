@@ -16,9 +16,7 @@ fn main() {
   // * Do not use break to exit the loop
   while n >= 1 {
     println!("{:?}", n);
-    if n == 1 {
-      println!("DONE");
-    }
     n = n - 1;
   }
+  println!("DONE")
 }
