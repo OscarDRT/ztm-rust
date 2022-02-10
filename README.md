@@ -28,3 +28,5 @@ sqlx database setup
 - Rust Fundamentals
 - Making Decisions with Rust
 - Repetition
+- Working With Data
+- Rust`s Memory Model
