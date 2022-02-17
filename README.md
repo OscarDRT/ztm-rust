@@ -30,3 +30,8 @@ sqlx database setup
 - Repetition
 - Working With Data
 - Rust`s Memory Model
+- Data Collections
+- Expanding Knowledge
+- Fallible Functions
+- Data Collection: HashMap
+- 
