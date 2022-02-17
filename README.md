@@ -34,4 +34,5 @@ sqlx database setup
 - Expanding Knowledge
 - Fallible Functions
 - Data Collection: HashMap
-- 
+- Easier Data Management
+- Managing Code
